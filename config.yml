@@ -1,0 +1,9 @@
+jerseyClient:
+  gzipEnabled: false
+  gzipEnabledForRequests: false
+  chunkedEncodingEnabled: false
+
+logging:
+  level: INFO
+  loggers:
+    io.github.rest: DEBUG
